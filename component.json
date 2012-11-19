@@ -1,0 +1,14 @@
+{
+  "name": "hsl-to-rgb",
+  "repo": "karlbohlmark/hsl-to-rgb",
+  "description": "HSL to RGB conversion",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "hsl-to-rgb.js"
+  ],
+  "main": "hsl-to-rgb.js"
+}
